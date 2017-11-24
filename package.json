@@ -1,0 +1,25 @@
+{
+  "name": "murmur2-partitioner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuza/murmur2-partitioner.git"
+  },
+  "keywords": [
+    "murmur2",
+    "kafka",
+    "javascript",
+    "partitioning"
+  ],
+  "author": "vuza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vuza/murmur2-partitioner/issues"
+  },
+  "homepage": "https://github.com/vuza/murmur2-partitioner#readme"
+}
